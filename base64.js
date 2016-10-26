@@ -14,7 +14,7 @@
     var _Base64 = global.Base64;
     var version = "2.1.9";
 //     if node.js, we use Buffer
-//     var buffer;
+    var buffer;
 //     if (typeof module !== 'undefined' && module.exports) {
 //         try {
 //             buffer = require('buffer').Buffer;
